@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on frontend/backend .NET and python projects
-- 🌱 I’m currently learning React, ... and everything
+- 🔭 I’m currently working on: frontend/backend .NET and python projects
+- 🌱 I’m currently learning: React, ... and everything
 - 📫 How to reach me: tomasrenaa@gmail.com | (+47) 481-777-86
 <!--
 - 👯 I’m looking to collaborate on ...

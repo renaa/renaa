@@ -4,6 +4,9 @@
 - 🔭 I’m currently working on: frontend/backend .NET and python ML projects (have a look at my repos👨‍💻)
 - 🥅 2020 Goals: Contribute more to Open Source Projects
 
+<br>
+<br>
+
 ### Connect with me:
 [<img align="left" height="26px" title="🚧 Website under Construction 🚧" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" height="26px" title="twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -64,7 +67,6 @@
 [keras]: https://keras.io/
 [pytorch]: https://pytorch.org/
 
---- 
 <!-- 
 <img align="left" title="renaa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=renaa&show_icons=true&hide_border=true/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->

@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi there I'm Tomas👋
 
-- 🌱 I’m currently learning: everything 😅
-- 🔭 I’m currently working on: frontend/backend .NET and python ML projects 
+- 🌱 I’m currently learning: everything 😅 (more specific? react, fastai, azure, deno)
+- 🔭 I’m currently working on: frontend/backend .NET and python ML projects (have a look at my repos👨‍💻)
+- 🥅 2020 Goals: Contribute more to Open Source Projects
 
+### Connect with me:
+[<img align="left" title="Website under Construction" height="26px" src="🚧" />][website]
+[<img align="left" title="twitter" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" title="Website" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 ### Languages and Tools:
-[<img align="left" title="Visual Studio" alt="Visual Studio" height="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][visual studio]
-[<img align="left" title="Visual Studio Code" alt="Visual Studio Code" height="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" />][vscode]
+[<img align="left" title="Visual Studio" height="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][visual studio]
+[<img align="left" title="Visual Studio Code" height="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" />][vscode]
 [<img align="left" title="C#" alt="C#" height="26px" src="https://www.brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" />][c#]
 
 [<img align="left" title="HTML5" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
@@ -37,6 +42,7 @@
 [twitter]: https://twitter.com/tomas15916021
 [linkedin]: https://linkedin.com/in/tomas-foss-renaa-747b3371
 
+<!-- [website]: tomasrenaa.io -->
 [self]: https://github.com/renaa
 [visual studio]: https://visualstudio.microsoft.com
 [vscode]: https://code.visualstudio.com/

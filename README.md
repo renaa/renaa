@@ -7,24 +7,32 @@
 [<img align="left" title="Visual Studio" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][visual studio]
 [<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" />][vscode]
 [<img align="left" title="C#" alt="C#" width="26px" src="https://www.brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" />][c#]
+
 [<img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />][js]
 [<img align="left" title="CSS" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+
 [<img align="left" title="Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" title="Vue.js" alt="Vue.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />][vue]
 [<img align="left" title="React.js" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />][react]
 [<img align="left" title="GraphQL" alt="GraphQL" width="26px" src="https://graphql.org/img/logo.svg" />][graphql]
 [<img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 
+
+[<img align="left" title="Azure" alt="Azure" width="26px" src="https://www.kodemaker.no/assets/photos/tech/b053ae81ad77/azure.png" />][azure]
+
+[<img align="left" title="Firebase" alt="Firebase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/firebase/images/touchicon-180.png
+g" />][firebase]
+[<img align="left" title="SQL" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+
+[<img align="left" title="Python" alt="Python" width="26px" src="https://sentry.io/_assets/logos/python-b4c48305602d94e83642262dfdcda73dfcd7659b25281b4f3a3a9def5e445642.svg" />][python]
 [<img align="left" title="Tensorflow" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
 [<img align="left" title="Keras" alt="Keras" width="26px" src="https://warth-sapiensio.com/wp-content/uploads/2018/10/keras-logo-small-wb.png" />][keras]
 [<img align="left" title="Pytorch" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
 
 
-[<img align="left" title="SQL" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][self]
-
 [<img align="left" title="GitHub" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][self]
-[<img align="left" title="terminal" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][self]
+[<img align="left" title="Terminal" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][self]
 
 [website]: https://github.com/renaa
 [twitter]: https://twitter.com/tomas15916021
@@ -42,9 +50,15 @@
 [react]: https://reactjs.org/
 [graphql]: https://graphql.org/
 [node]: https://nodejs.org/en/
+[azure]: https://azure.microsoft.com/en-us/
+[firebase]: https://firebase.google.com/
+[sql]: https://en.wikipedia.org/wiki/SQL
+[python]: https://www.python.org/
 [tensorflow]: https://www.tensorflow.org/
 [keras]: https://keras.io/
 [pytorch]: https://pytorch.org/
+
+
 <!--
 
 ### Languages and Tools:

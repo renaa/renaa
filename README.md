@@ -10,6 +10,10 @@
 [<img align="left" height="26px" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="26px" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
+[website]: https://github.com/renaa
+[twitter]: https://twitter.com/tomas15916021
+[linkedin]: https://linkedin.com/in/tomas-foss-renaa-747b3371
+[instagram]: https://www.instagram.com/tomasfossrenaa/
 
 ### Languages and Tools:
 [<img align="left" height="26px" title="Visual Studio" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][visual studio]
@@ -33,15 +37,6 @@
 [<img align="left" height="26px" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][self]
 [<img align="left" height="26px" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][self]
 
-<br>
-<br>
-
-[website]: https://github.com/renaa
-[twitter]: https://twitter.com/tomas15916021
-[linkedin]: https://linkedin.com/in/tomas-foss-renaa-747b3371
-[instagram]: https://www.instagram.com/tomasfossrenaa/
-
-<!-- [website]: tomasrenaa.io -->
 [self]: https://github.com/renaa
 [visual studio]: https://visualstudio.microsoft.com
 [vscode]: https://code.visualstudio.com/
@@ -61,6 +56,18 @@
 [tensorflow]: https://www.tensorflow.org/
 [keras]: https://keras.io/
 [pytorch]: https://pytorch.org/
+
+<br>
+<br>
+
+--- 
+<!-- 
+<img align="left" title="renaa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=renaa&show_icons=true&hide_border=true/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<!-- [website]: tomasrenaa.io -->
+
 
 
 <!--

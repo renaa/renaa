@@ -4,35 +4,54 @@
 - 🔭 I’m currently working on: frontend/backend .NET and python ML projects 
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][self]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][self]
-[<img align="left" title="C#" alt="C#" width="26px" src="https://www.brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" />][self]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][self]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][self]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][self]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][self]
-[<img align="left" alt="Vue.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />][self]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][self]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][self]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][self]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][self]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][self]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][self]
+[<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][visual studio]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" />][vscode]
+[<img align="left" title="C#" alt="C#" width="26px" src="https://www.brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" />][c#]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="JavaScript" width="26px" src="https://www.iconspng.com/uploads/js/js.png" />][js]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+[<img align="left" alt="Vue.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />][vue]
+[<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />][react]
+[<img align="left" alt="GraphQL" width="26px" src="https://graphql.org/img/logo.svg" />][graphql]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][self]
+[<img align="left" alt="Tensorflow" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][tensorflow]
+[<img align="left" alt="Keras" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][keras]
+[<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
+
+
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][self]
+
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][self]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][self]
+[<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][self]
 
 [website]: https://github.com/renaa
 [twitter]: https://twitter.com/tomas15916021
 [linkedin]: https://linkedin.com/in/tomas-foss-renaa-747b3371
 
 [self]: https://github.com/renaa
-
+[visual studio]: https://visualstudio.microsoft.com
+[vscode]: https://code.visualstudio.com/
+[c#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[html5]: https://en.wikipedia.org/wiki/HTML5
+[js]: https://en.wikipedia.org/wiki/JavaScript
+[css]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
+[sass]: https://sass-lang.com/
+[vue]: https://vuejs.org/
+[react]: https://reactjs.org/
+[graphql]: https://graphql.org/
+[node]: https://nodejs.org/en/
+[tensorflow]: https://www.tensorflow.org/
+[keras]: https://keras.io/
+[pytorch]: https://pytorch.org/
 <!--
 
 ### Languages and Tools:
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][self]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][self]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][self]
 
 [instagram]: https://instagram.com/codeSTACKr
 

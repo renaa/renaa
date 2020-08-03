@@ -8,7 +8,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" />][vscode]
 [<img align="left" title="C#" alt="C#" width="26px" src="https://www.brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" />][c#]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="JavaScript" width="26px" src="https://www.iconspng.com/uploads/js/js.png" />][js]
+[<img align="left" alt="JavaScript" width="26px" src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/09/javascript.png" />][js]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="Vue.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />][vue]
@@ -16,8 +16,8 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://graphql.org/img/logo.svg" />][graphql]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 
-[<img align="left" alt="Tensorflow" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][tensorflow]
-[<img align="left" alt="Keras" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][keras]
+[<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][tensorflow]
+[<img align="left" alt="Keras" width="26px" src="https://warth-sapiensio.com/wp-content/uploads/2018/10/keras-logo-small-wb.png" />][keras]
 [<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
 
 

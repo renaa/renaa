@@ -13,7 +13,6 @@
 [<img align="left" height="26px" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
----
 <br>
 
 ### Languages and Tools:

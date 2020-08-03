@@ -21,8 +21,7 @@
 
 [<img align="left" title="Azure" alt="Azure" width="26px" src="https://www.kodemaker.no/assets/photos/tech/b053ae81ad77/azure.png" />][azure]
 
-[<img align="left" title="Firebase" alt="Firebase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/firebase/images/touchicon-180.png
-g" />][firebase]
+[<img align="left" title="Firebase" alt="Firebase" width="26px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />][firebase]
 [<img align="left" title="SQL" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
 [<img align="left" title="Python" alt="Python" width="26px" src="https://sentry.io/_assets/logos/python-b4c48305602d94e83642262dfdcda73dfcd7659b25281b4f3a3a9def5e445642.svg" />][python]

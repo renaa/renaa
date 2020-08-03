@@ -5,7 +5,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source Projects
 
 <br>
-<br>
 
 ### Connect with me:
 [<img align="left" height="26px" title="🚧 Website under Construction 🚧" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

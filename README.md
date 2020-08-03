@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: frontend/backend .NET and python ML projects (have a look at my repos👨‍💻)
 - 🥅 2020 Goals: Contribute more to Open Source Projects
 
-<br>
+---
 
 ### Connect with me:
 [<img align="left" height="26px" title="🚧 Website under Construction 🚧" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -13,6 +13,7 @@
 [<img align="left" height="26px" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
+---
 <br>
 
 ### Languages and Tools:

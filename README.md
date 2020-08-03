@@ -7,8 +7,8 @@
 ### Connect with me:
 [<img align="left" height="26px" title="🚧 Website under Construction 🚧" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" height="26px" title="twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" height="26px" title="Website" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" height="26px" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" height="26px" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 
 ### Languages and Tools:
@@ -32,6 +32,9 @@
 [<img align="left" height="26px" title="Pytorch" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
 [<img align="left" height="26px" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][self]
 [<img align="left" height="26px" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][self]
+
+<br>
+<br>
 
 [website]: https://github.com/renaa
 [twitter]: https://twitter.com/tomas15916021

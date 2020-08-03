@@ -5,9 +5,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source Projects
 
 ### Connect with me:
-[<img align="left" height="26px" title="Website under Construction" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" height="26px" title="🚧 Website under Construction 🚧" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" height="26px" title="twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" height="26px" title="Website" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 
 ### Languages and Tools:
@@ -35,6 +36,7 @@
 [website]: https://github.com/renaa
 [twitter]: https://twitter.com/tomas15916021
 [linkedin]: https://linkedin.com/in/tomas-foss-renaa-747b3371
+[instagram]: https://www.instagram.com/tomasfossrenaa/
 
 <!-- [website]: tomasrenaa.io -->
 [self]: https://github.com/renaa

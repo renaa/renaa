@@ -1,6 +1,6 @@
 ### Hi there I'm Tomas👋
 
-- 🌱 I’m currently learning: everything 😅 (more specific? react, fastai, [azure](https://github.com/renaa/EgoGraphFunctionApi), deno, parcel-vs-rollup)
+- 🌱 I’m currently learning: everything 😅 (more specific? react, fastai, [azure](https://github.com/renaa/EgoGraphFunctionApi))
 - 🔭 I’m currently working on: frontend/backend .NET and python ML projects (have a look at my repos👨‍💻)
 - 🥅 2020 Goals: Contribute more to Open Source Projects
 

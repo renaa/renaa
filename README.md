@@ -1,4 +1,5 @@
-### Hi there 👋<!--
+### Hi there 👋
+<!--
 I'm Tomas
 
 - 🌱 I’m currently learning: everything 😅 (more specific? react, fastai, [azure](https://github.com/renaa/EgoGraphFunctionApi))

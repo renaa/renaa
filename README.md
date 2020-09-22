@@ -1,4 +1,5 @@
-### Hi there I'm Tomas👋
+### Hi there 👋<!--
+I'm Tomas
 
 - 🌱 I’m currently learning: everything 😅 (more specific? react, fastai, [azure](https://github.com/renaa/EgoGraphFunctionApi))
 - 🔭 I’m currently working on: frontend/backend .NET and python ML projects (have a look at my repos👨‍💻)
@@ -65,7 +66,7 @@
 [tensorflow]: https://www.tensorflow.org/
 [keras]: https://keras.io/
 [pytorch]: https://pytorch.org/
-
+-->
 <!-- 
 <img align="left" title="renaa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=renaa&show_icons=true&hide_border=true/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
